@@ -10,6 +10,6 @@ PowerPoint templates
 - The color scheme belongs to https://github.com/chriskempson/tomorrow-theme
 - The font belongs to https://github.com/be5invis/Sarasa-Gothic
 
-![Snipaste_2019-09-23_13-44-50](.\readme_pics\Snipaste_2019-09-23_13-44-50.png)
+![Snipaste_2019-09-23_13-44-50](./readme_pics/Snipaste_2019-09-23_13-44-50.png)
 
-![Snipaste_2019-09-23_13-45-01](.\readme_pics\Snipaste_2019-09-23_13-45-01.png)
+![Snipaste_2019-09-23_13-45-01](./readme_pics/Snipaste_2019-09-23_13-45-01.png)
